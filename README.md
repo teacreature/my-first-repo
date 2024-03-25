@@ -1,6 +1,8 @@
 # my-first-repo
 repository for learning github
 
+![profile-picture](DSC00616.JPG)
+
 ## languages:
 1. Python
 2. C
